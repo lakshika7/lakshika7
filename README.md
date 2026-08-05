@@ -59,18 +59,3 @@ End-to-end ETL pipeline processing 200+ student surveys into 25,000+ structured 
 Processed 10,000+ conversational records against the BDI-II framework, benchmarking multiple LLM personas for prediction consistency. Ranked 5th globally in CLEF eRisk 2026 Task 1; work accepted to CEUR Workshop Proceedings.
 
 ---
-
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=lakshika7&theme=radical&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="150" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=lakshika7&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" height="150" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=lakshika7&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="150" />
-    </td>
-  </tr>
-</table>
