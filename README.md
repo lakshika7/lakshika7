@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lakshikasingh&theme=onestar&bg_color=000000&margin-w=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lakshika7&theme=onestar&bg_color=000000&margin-w=15" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 ### 🌐 Connect with me
 <p>
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://github.com/lakshika7" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a href="mailto:lakshikasingh7062002@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40"/></a>
 </p>
 
@@ -69,13 +69,13 @@ Processed 10,000+ conversational records against the BDI-II framework, benchmark
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lakshikasingh&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lakshika7&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=lakshikasingh&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+      <img src="https://streak-stats.demolab.com/?user=lakshika7&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshikasingh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshika7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
     </td>
   </tr>
 </table>
